@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PROG",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Arrays_processing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Arrays_processing-Debug-576039a021c819be0f78.json",
+					"name" : "Arrays_processing",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CountingSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CountingSort-Debug-e5d6435eb693158fb919.json",
+					"name" : "CountingSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "InserSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InserSort-Debug-6a661b08bccf366a89a8.json",
+					"name" : "InserSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "List::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-List-Debug-2337cc355bf6e66630c9.json",
+					"name" : "List",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SelectionSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SelectionSort-Debug-20aeb137311b61f3070b.json",
+					"name" : "SelectionSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "algs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-algs-Debug-b6addcf58a9f3f476417.json",
+					"name" : "algs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "binarySearch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-binarySearch-Debug-60b7468b667e9708d57c.json",
+					"name" : "binarySearch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bubbleSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bubbleSort-Debug-31d092136f3c20208b0a.json",
+					"name" : "bubbleSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "encrypt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-encrypt-Debug-0f85d8d29f4ce6cc4319.json",
+					"name" : "encrypt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hanoi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hanoi-Debug-9f764a2e832454adb338.json",
+					"name" : "hanoi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mergeSort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mergeSort-Debug-1a885a2ce23ef4a0bf97.json",
+					"name" : "mergeSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string-Debug-a6f3cbaaf9d59302ed2a.json",
+					"name" : "string",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "structNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-structNode-Debug-510d14785979ed91dde4.json",
+					"name" : "structNode",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/maksi/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug",
+		"source" : "C:/Users/maksi/OneDrive/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/MyEducation/University/BaseAlgorithmsCPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

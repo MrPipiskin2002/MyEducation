@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.29)
+project(PROG)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(hanoi ./hanoi.cpp)
+add_executable(structNode ./structNode.cpp)
+add_executable(binarySearch ./binarySearch.cpp)
+add_executable(InserSort ./InserSorting.cpp)
+add_executable(bubbleSort ./bubbleSort.cpp)
+add_executable(SelectionSort ./SelectionSort.cpp)
+add_executable(CountingSort ./countingSort.cpp)
+add_executable(mergeSort ./mergeSort.cpp)
+add_executable(List ./List.cpp)
+add_executable(string ./string.cpp)
+add_executable(encrypt ./encrypt.cpp)
+add_executable(algs ./algs.cpp)
+add_executable(Arrays_processing ./Arrays_processing.cpp)

@@ -1,0 +1,15 @@
+C:/Users/maksi/OneDrive/Рабочий стол/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug/CMakeFiles/hanoi.dir
+C:/Users/maksi/OneDrive/Рабочий стол/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug/CMakeFiles/structNode.dir
+C:/Users/maksi/OneDrive/Рабочий стол/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug/CMakeFiles/binarySearch.dir
+C:/Users/maksi/OneDrive/Рабочий стол/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug/CMakeFiles/InserSort.dir
+C:/Users/maksi/OneDrive/Рабочий стол/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug/CMakeFiles/bubbleSort.dir
+C:/Users/maksi/OneDrive/Рабочий стол/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug/CMakeFiles/SelectionSort.dir
+C:/Users/maksi/OneDrive/Рабочий стол/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug/CMakeFiles/CountingSort.dir
+C:/Users/maksi/OneDrive/Рабочий стол/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug/CMakeFiles/mergeSort.dir
+C:/Users/maksi/OneDrive/Рабочий стол/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug/CMakeFiles/List.dir
+C:/Users/maksi/OneDrive/Рабочий стол/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug/CMakeFiles/string.dir
+C:/Users/maksi/OneDrive/Рабочий стол/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug/CMakeFiles/encrypt.dir
+C:/Users/maksi/OneDrive/Рабочий стол/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug/CMakeFiles/algs.dir
+C:/Users/maksi/OneDrive/Рабочий стол/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug/CMakeFiles/Arrays_processing.dir
+C:/Users/maksi/OneDrive/Рабочий стол/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maksi/OneDrive/Рабочий стол/MyEducation/University/BaseAlgorithmsCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
